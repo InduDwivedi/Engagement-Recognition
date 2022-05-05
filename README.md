@@ -1,5 +1,6 @@
 # Engagement Recognition
 
+Project work CSE555 Introduction to Pattern Recognition
 
 The project aims to build an engagement recognition model that can accurately detect the affective state of an individual. The DAiSEE Dataset consists of videos of subjects during online courses and are available under different illumination settings. Each video is labelled with one of 4 affective states - boredom, engagement, confusion, frustration. Further each affective state is also rated based on the intensity ranging from 0-3.
 
